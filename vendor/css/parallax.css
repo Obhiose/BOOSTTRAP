@@ -1,0 +1,38 @@
+/* navbar and hero text */
+.hero-text {
+    text-align: center;
+    padding-top: 15%;
+    letter-spacing: 3px;
+    color: white;
+}
+
+span {
+    opacity: 0.80;
+    background-color: black;
+    padding: 10px;
+}
+
+.obb {
+    background-image:url(../img/img1.jpg);
+    height: 450px;
+    background-repeat: no-repeat;
+}
+
+.dan:hover {
+    background-color: lightgray;
+}
+.daniel {
+    opacity: 0.75;
+}
+.daniel:hover{
+    opacity: 1;
+}
+
+.www{
+    padding: 16px;
+}
+
+.ggh {
+    padding: small;
+    align-items: center;
+}

@@ -1,0 +1,243 @@
+.obb {
+    width: 10%;
+}
+
+body {
+    background-color: gainsboro;
+}
+
+.danee {
+    width: 500px;
+    padding: 5px;
+    margin-left: 80px;
+    border: 1px solid gray;
+    border-radius: 3px;
+}
+
+
+.dan {
+    padding: 10px;
+}
+
+.egg {
+    width: 30%;
+}
+
+.da {
+    background-color: #f68b1e;
+    border: none;
+    padding: 9px;
+    border-radius: 5px;
+    color: white;
+    box-shadow: 0 5px 10px 0 rgb(0 0 0 / 16%), 0 2px 15px 0 rgb(0 0 0 / 12%);
+}
+
+
+.ass, li {
+    padding-left: 40px;
+    
+}
+
+.sub {
+    background-color: #f68b1e;
+    border: none;
+    padding: 9px;
+    border-radius: 5px;
+    color: white;
+    box-shadow: 0 5px 10px 0 rgb(0 0 0 / 16%), 0 2px 15px 0 rgb(0 0 0 / 12%);
+    margin-left: 15%;
+    width: 70%;
+}
+
+.oj {
+    font-size: 107%;
+}
+
+
+.jj {
+    margin-right: 10px;
+    
+}
+
+.bress {
+    width: 25px;
+}
+
+.bar{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+.bar:hover {
+    box-shadow: 0 5px 10px 0 rgb(0 0 0 / 10%), 0 2px 15px 0 rgb(0 0 0 / 10%);
+    
+}
+
+
+.sidebar {
+    margin-right: 35%;
+    background-color: white;
+    border-radius: 20px;
+    width: 10%;
+}
+
+.sidebar li:hover{
+    color: #f68b1e;
+}
+
+.obj {
+    margin-right: 5px;
+}
+
+.nao {
+    padding-left: 5%;
+    background-color: blueviolet;
+    width: 100%;
+    height: 40px;
+    padding-top: 5px;
+    color: white;
+}
+
+body {
+    background-color: rgb(233, 230, 230) !important;
+    color: #282828;
+    font-family: Roboto,-apple-system,BlinkMacSystemFont, "segoe UI", "Helvetica Neue", Arial, Helvetica, sans-serif;
+    font-size: .875rem;
+}
+
+.bbb{
+    margin-left: 20%;
+    
+}
+
+
+.od {
+    border-radius: 10px;
+}
+
+.opp {
+    width: 540px;
+}
+
+.mj {
+    background-color: red;
+}
+
+.pad {
+    position: absolute;
+    right: 7px;
+    top: 2%;
+    color: #f68b1e; 
+    background-color: rgb(254,239,222);
+    border-radius: 5px;
+    padding: 3px;
+}
+
+.og:hover {
+    box-shadow: 0 7px 15px 0 rgb(0 0 0 / 15%), 0 2px 15px 0 rgb(0 0 0 / 15%);
+    width: 100% !important;
+    float: right !important;
+}
+
+.ogl {
+    background-color: white;
+    border-radius: 5px;
+}
+
+.otf {
+    background-color: white;
+}
+.may {
+    background-color: rgb(254,226,204);
+    padding: 7px;
+    width: 100%;
+}
+
+.dof {
+    color: white;
+    background-color: inherit;
+    border: 1px solid white;
+    border-radius: 3px;
+}
+.dof:hover {
+    color: rgb(247, 127, 8);
+    border: 1px solid rgb(247, 127, 8);
+    
+}
+
+.do:hover {
+    border: 1px solid rgb(247, 127, 8);
+}
+
+.do {
+    padding-left: 10px;
+}
+.kg {
+    margin: 0;
+    overflow: visible;
+}
+
+.juju {
+    margin-left: 35%;
+    margin-top: 7%;
+}
+.bf {
+    border-radius: 5px;
+}
+
+.sam {
+    color: white;
+    font-size: small;
+}
+.sam:hover {
+    color: white;
+}
+
+
+
+/*style input container */
+.input-container {
+    display: flex;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.icon {
+   
+    background: inherit;
+    color: white;
+    
+    text-align: center;
+}
+
+.input-field {
+    width: 100%;
+    padding: 10px;
+    outline: none;
+}
+
+.social_media a{ 
+    width: 70px;
+    height: 70px;
+    
+    text-align: center;
+    margin: 0 5px;
+    color: white;
+    
+}
+.lil:hover {
+    color: rgb(247, 127, 8);
+}
+
+
+#preloader {
+    background:rgb(34,34,34) url(./vendor/img/gif.gif) no-repeat center center;
+    background-size: 15%;
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+}
+
